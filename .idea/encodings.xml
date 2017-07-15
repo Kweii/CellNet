@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cellnet/app/App.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/resources/environment.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/resources/log4j2.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/cellnet/base/AbstractNode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/cellnet/context/NetworkContext.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/cellnet/domain/Location.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/cellnet/domain/Packet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/cellnet/enums/MsgType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dynamicRouting/src/main/java/com/cellnet/node/DRNodeImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/util/src/main/java/com/cellnet/counter/ConnectionCounter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/util/src/main/java/com/cellnet/counter/PacketForwardedCounter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/util/src/main/java/com/cellnet/counter/PacketReceivedCounter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/util/src/main/java/com/cellnet/util/EnvUtil.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
